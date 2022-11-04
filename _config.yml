@@ -1,0 +1,41 @@
+# Site settings
+title: "Auditorium Azhar"
+description: "Blog Suaranya Azhar"
+podcast-description: "Blog Suaranya Azhar"
+url:  "http://basyiri.my.id"
+baseurl: "/auditorium"
+author:
+  name: "Azhar Basyiri Hartono"
+  email: "azhar@basyiri.my.id"
+  url: "http://basyiri.my.id/auditorium"
+permalink: pretty
+permalink: /:title
+keywords: [podcast, jekyll]
+
+#Plugins
+plugins: [jekyll-paginate, jekyll-seo-tag, jekyll-sitemap]
+
+#exclude: [_podcast.rss] #Ignore this, it will be used in case I decide to add rss feed
+
+#Pagination
+paginate: 5
+paginate_path: "/page-:num/"
+
+#Sass
+sass:
+  style: compressed
+  sourcemap: never
+
+#SEO
+twitter:
+  username: intrapegasus
+  card: summary
+facebook:
+  app_id: 
+logo: /assets/img/Podcast_Cover.png
+social:
+  name: Azhar Basyiri Hartono
+  links:
+    - https://github.com/intrapegasus
+    - https://twitter.com/intrapegasus
+lang: it

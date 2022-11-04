@@ -1,0 +1,15 @@
+#Pages
+pages:
+  - {name: 'Azhar [LP | HA]', link: 'http://basyiri.my.id'}
+
+social:
+  - {icon: 'facebook', type: "brand", link: 'https://facebook.com/intrapegasus'}
+  - {icon: 'instagram', type: "brand", link: 'https://instagram.com/intrapegasus'}
+  - {icon: 'twitter', type: "brand", link: 'https://twitter.com/intrapegasus'}
+  - {icon: 'envelope', type: "solid", link: 'mailto:azhar@basyiri.my.id'}
+
+websites-podcast:
+  - {name: 'Anchor', link: 'https://anchor.fm/intrapegasus'}
+
+translate-date: true #See _includes/date.html to translate the months' name
+shownotes: true
