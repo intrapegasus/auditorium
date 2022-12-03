@@ -9,7 +9,7 @@ social:
   - {icon: 'envelope', type: "solid", link: 'mailto:azhar@basyiri.my.id'}
 
 websites-podcast:
-  - {name: 'Anchor', link: 'https://anchor.fm/intrapegasus'}
+  - {name: 'Anchor', link: 'https://www.listennotes.com/podcasts/zefas-podcast-zefanya-abraham-JZOiK3SMgEG'}
 
 translate-date: true #See _includes/date.html to translate the months' name
 shownotes: true
